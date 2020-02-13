@@ -1,6 +1,6 @@
 # Rongzhe Wei's Personal Website
 
-![avatar](https://github.com/Jesson-Wei/Rongzhe-Wei.github.io/blob/master/photo.jpg)
+![avatar](https://github.com/Jesson-Wei/Rongzhe-Wei.github.io/blob/master/personal%20photo.jpg)
 
 ### Junior Undergraduate Student
 
