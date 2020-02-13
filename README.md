@@ -1,5 +1,7 @@
 # Rongzhe Wei's Personal Website
 
+![avatar](https://github.com/Jesson-Wei/Rongzhe-Wei.github.io/blob/master/photo.jpg)
+
 ### Junior Undergraduate Student
 
 ### the Honors Science Program (Mathematics); School of Mathematics and Statistics; Qian Xuesen College, Xi'an Jiaotong University (XJTU)
