@@ -9,7 +9,7 @@
 ### Research Interests
 ***
 * **Homogeneous/Heterogeneous Domain Adaptation (Transfer Learning)**
-* **Machine Learning Theory (eg. Fairness in ML, Convex/Non-convex Optimization in ML, Optimal Transport in ML)**
+* **Machine Learning Theory (eg. Fairness in ML, Convex/Non-convex Optimization, Optimal Transport in ML)**
 * **Image Processing**
 
 ### Experience
