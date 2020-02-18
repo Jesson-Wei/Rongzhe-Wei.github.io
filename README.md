@@ -40,7 +40,8 @@ Beijing, China
 3. Yingchao Wu, Qinghua Zheng, Yuda Gao, Bo Dong, **Rongzhe Wei**, Fa Zhang, and Huan He. TEDM-PU: A Tax Evasion Detection Method Based on Positive and Unlabeled Learning. Proceedings of the 2019 IEEE International Conference on Big Data (IEEE BigData 2019), pp. 1681-1686, December 9-12, 2019, Los Angeles, CA, USA. 
 4. DWMD: Dimensional Weighted Order-wise Moment Discrepancy for Domain-specific Hidden Representation Matching (**First authorship** submitted to **IJCAI 2020**)
 5. A Novel Tax Evasion Detection Framework via Fused Transaction Network (Student third authorship submitted to COMPSAC 2020)
-6. Dual Adversarial Networks for Land-cover Classification (**Second authorship** submitted to COMPSAC 2020)
+6. Dual Adversarial Networks for Land-cover Classification (Second authorship submitted to COMPSAC 2020)
+7. NEUD-TRI: Network Embedding Based on Upstream and Downstream for Transaction Risk Identification (Second authorship submitted to COMPSAC 2020)
 
 ### Patents
 ***
