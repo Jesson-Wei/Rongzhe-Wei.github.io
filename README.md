@@ -4,7 +4,7 @@
 
 ### the Honors Science Program (Mathematics); School of Mathematics and Statistics; Qian Xuesen College, Xi'an Jiaotong University (XJTU)
 
-### Email: jessonwrz@163.com; jessonw@gmail.com
+### Email: jessonwrz@163.com; jessonw@gmail.com; rwei42@gatech.edu
 
 ### Research Interests
 ***
